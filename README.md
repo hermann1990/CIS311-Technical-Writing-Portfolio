@@ -19,31 +19,37 @@ It reflects clarity, audience awareness, APA alignment, and real-world IT/DevOps
 ## 🧠 Featured Assignments
 - **Unit 1 – Technical vs. Non-Technical Writing**  
   *Compares tone, style, and purpose across technical and narrative documents.*  
-  [View (PDF)](./Unit1_TechnicalVsNonTechnical.pdf)
+  
+[Unit1.TC (1).docx](https://github.com/user-attachments/files/22932153/Unit1.TC.1.docx)
 
 - **Unit 2 – Social Media & Online Content Analysis**  
   *Evaluates a Fortune 500 company’s social presence using Section 4.5b guidelines.*  
-  [View (PDF)](./Unit2_SocialMediaAnalysis.pdf)
+  
+[unit 2.2..docx](https://github.com/user-attachments/files/22932157/unit.2.2.docx)
 
 - **Unit 3 – Avoiding Plagiarism in Technical Writing**  
   *Ethical summarizing and paraphrasing with correct citation.*  
-  [View (PDF)](./Unit3_AvoidingPlagiarism.pdf)
+  [CIS311_Unit3.2_Assignment_Summaries_Abstracts (1).docx](https://github.com/user-attachments/files/22932164/CIS311_Unit3.2_Assignment_Summaries_Abstracts.1.docx)
+
 
 - **Unit 4 – Visual Design & Presentation**  
   *Visuals, charts, and a slide deck for mixed technical/non-technical audiences.*  
-  [View (PDF)](./Unit4_VisualDesignAndPresentation.pdf)
+  
+[Cybersecurity-and-Data-Breaches (2).pptx](https://github.com/user-attachments/files/22932180/Cybersecurity-and-Data-Breaches.2.pptx)
 
 - **Unit 5 – Technical Instructions**  
   *Step-by-step instructions with a flowchart and user-tested revisions.*  
-  [View (PDF)](./Unit5_TechnicalInstructions.pdf)
-
+  
 - **Unit 6 – Internal Technical Proposal**  
   *Proposal with ROI and implementation plan (self-illuminating exit signs).*  
-  [View (PDF)](./Unit6_TechnicalProposal.pdf)
+  [Internal_Proposal_Exit_Signs_Anicet_Zie (1).docx](https://github.com/user-attachments/files/22932198/Internal_Proposal_Exit_Signs_Anicet_Zie.1.docx)
+
+[Unit_5.1_Assignment_LinkedIn_Profile (1).docx](https://github.com/user-attachments/files/22932184/Unit_5.1_Assignment_LinkedIn_Profile.1.docx)
 
 - **Unit 7 – Research Report: Cybersecurity & Data Breaches**  
   *Executive summary, methodology, findings, and 10 APA sources.*  
-  [View (PDF)](./Unit7_ResearchReport.pdf)
+  
+[_Anicet_Zie_unit_7.1 (1).docx](https://github.com/user-attachments/files/22932195/_Anicet_Zie_unit_7.1.1.docx)
 
 ---
 
